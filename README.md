@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Dhivya2004-github/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Dhivya2004-github/LeetCode/tree/master/0242-valid-anagram) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Dhivya2004-github/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Dhivya2004-github/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Divide and Conquer
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dhivya2004-github/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Dhivya2004-github/LeetCode/tree/master/0242-valid-anagram) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Dhivya2004-github/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Trie
 |  |
 | ------- |
@@ -66,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Dhivya2004-github/LeetCode/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Dhivya2004-github/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Dhivya2004-github/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
