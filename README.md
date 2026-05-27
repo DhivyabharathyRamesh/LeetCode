@@ -56,9 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Dhivya2004-github/LeetCode/tree/master/0069-sqrtx) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Dhivya2004-github/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Geometry
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/Dhivya2004-github/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Dhivya2004-github/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
