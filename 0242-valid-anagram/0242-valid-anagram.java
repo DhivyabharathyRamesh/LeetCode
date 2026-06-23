@@ -20,25 +20,20 @@ class Solution {
 
         }
         for(int i=0;i<s.length();i++){
-            if((map.containsKey(t.charAt(i)))==false){
+            char ch=t.charAt(i);
+            if(!map.containsKey(ch)){
                 return false;
 
             }
-            if(map.containsKey(t.charAt(i))){
-                char ch=t.charAt(i);
-                int count=map.get(ch)-1;
+            
+                
+            int count=map.get(ch)-1;
                 if(count==0){
-                    map.remove(t.charAt(i));
+                    map.remove(ch);
                 }
                 else{
                     map.put(ch,count);
-                    }
-                
-                
-            }
-            
-            
-            
+                    }    
 
         }
         return map.isEmpty();
