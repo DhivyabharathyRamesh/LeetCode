@@ -37,12 +37,12 @@ class Solution {
                 
             }
             
-            if(map.size()==0){
-                return true;
-            }
+            
+            
 
         }
-        return false;
+        return map.isEmpty();
+       
 
         
     }
