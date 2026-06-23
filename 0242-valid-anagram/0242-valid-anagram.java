@@ -16,6 +16,7 @@ class Solution {
                 
                 count=(map.get(s.charAt(i)))+1;
                 map.put(s.charAt(i),count);
+                map.put(s.charAt(i),count);
             }
             */
            
