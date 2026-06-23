@@ -9,14 +9,20 @@ class Solution {
        
         
         for(int i=0;i<s.length();i++){
-            int count=1;
+            
+            char ch=s.charAt(i);
+            /*
             if(map.containsKey(s.charAt(i))){
                 
                 count=(map.get(s.charAt(i)))+1;
                 map.put(s.charAt(i),count);
             }
+            */
+           
+            map.put(ch, map.getOrDefault(ch, 0) + 1);
 
-            map.put(s.charAt(i),count);
+            
+
 
         }
         for(int i=0;i<s.length();i++){
