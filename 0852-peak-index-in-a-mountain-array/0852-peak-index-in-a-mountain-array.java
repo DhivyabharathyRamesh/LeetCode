@@ -4,14 +4,14 @@ class Solution {
         int end=arr.length-1;
         while(start<=end){
             int mid=start+(end-start)/2;
-            if(arr[mid-1]<arr[mid] && arr[mid+1]<arr[mid]){
-                return mid;
-            }
-            else if(arr[mid-1]<arr[mid] && arr[mid+1]>arr[mid]){
+            if(arr[mid+1]>arr[mid]){
                 start++;
             }
-            else{
+            else if(arr[mid-1]>arr[mid]){
                 end--;
+            }
+            else{
+                return mid;
             }
         
         }
