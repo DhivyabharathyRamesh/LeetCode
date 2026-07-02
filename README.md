@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Dhivya2004-github/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Dhivya2004-github/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Dhivya2004-github/LeetCode/tree/master/0509-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dhivya2004-github/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Dhivya2004-github/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Dhivya2004-github/LeetCode/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/Dhivya2004-github/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Dhivya2004-github/LeetCode/tree/master/0509-fibonacci-number) |
 ## Depth-First Search
@@ -154,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Dhivya2004-github/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Dhivya2004-github/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
