@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Dhivya2004-github/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhivya2004-github/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dhivya2004-github/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/Dhivya2004-github/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1095-find-in-mountain-array](https://github.com/Dhivya2004-github/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Dhivya2004-github/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Hash Table
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dhivya2004-github/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dhivya2004-github/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Dhivya2004-github/LeetCode/tree/master/0383-ransom-note) |
+| [0904-fruit-into-baskets](https://github.com/Dhivya2004-github/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dhivya2004-github/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Dhivya2004-github/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Dhivya2004-github/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhivya2004-github/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Dhivya2004-github/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Interactive
 |  |
 | ------- |
