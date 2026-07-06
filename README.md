@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Dhivya2004-github/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Dhivya2004-github/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Dhivya2004-github/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Dhivya2004-github/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Dhivya2004-github/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Dhivya2004-github/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Dhivya2004-github/LeetCode/tree/master/0704-binary-search) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Dhivya2004-github/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Dhivya2004-github/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Dhivya2004-github/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Linked List
