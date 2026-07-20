@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 class Solution {
 
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
@@ -7,37 +5,55 @@ class Solution {
         int m = obstacleGrid.length;
         int n = obstacleGrid[0].length;
 
-        int[][] dp = new int[m][n];
-
-        for (int[] row : dp)
-            Arrays.fill(row, -1);
-
-        return helper(m - 1, n - 1, obstacleGrid, dp);
-    }
-
-    public int helper(int i, int j, int[][] obstacleGrid, int[][] dp) {
-
-        // Outside grid
-        if (i < 0 || j < 0)
+        // If the starting cell is blocked, no path exists.
+        if (obstacleGrid[0][0] == 1)
             return 0;
 
-        // Obstacle
-        if (obstacleGrid[i][j] == 1)
-            return 0;
+        // Stores the previous row.
+        int[] prev = new int[n];
 
-        // Start cell
-        if (i == 0 && j == 0)
-            return 1;
+        // Traverse each row.
+        for (int i = 0; i < m; i++) {
 
-        // Already computed
-        if (dp[i][j] != -1)
-            return dp[i][j];
+            // Stores the current row.
+            int[] curr = new int[n];
 
-        int up = helper(i - 1, j, obstacleGrid, dp);
-        int left = helper(i, j - 1, obstacleGrid, dp);
+            // Traverse each column.
+            for (int j = 0; j < n; j++) {
 
-        dp[i][j] = up + left;
+                // Starting cell.
+                if (i == 0 && j == 0) {
+                    curr[j] = 1;
+                    continue;
+                }
 
-        return dp[i][j];
+                // If current cell is an obstacle,
+                // no path can reach here.
+                if (obstacleGrid[i][j] == 1) {
+                    curr[j] = 0;
+                    continue;
+                }
+
+                int up = 0;
+                int left = 0;
+
+                // Take value from previous row.
+                if (i > 0)
+                    up = prev[j];
+
+                // Take value from current row's previous column.
+                if (j > 0)
+                    left = curr[j - 1];
+
+                // Total paths to current cell.
+                curr[j] = up + left;
+            }
+
+            // Current row becomes previous row.
+            prev = curr;
+        }
+
+        // Answer is stored in the last cell.
+        return prev[n - 1];
     }
 }
