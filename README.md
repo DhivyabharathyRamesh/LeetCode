@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dhivya2004-github/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Dhivya2004-github/LeetCode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Dhivya2004-github/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Dhivya2004-github/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Dhivya2004-github/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhivya2004-github/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dhivya2004-github/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dhivya2004-github/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dhivya2004-github/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Dhivya2004-github/LeetCode/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/Dhivya2004-github/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Dhivya2004-github/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dhivya2004-github/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Dhivya2004-github/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dhivya2004-github/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Dhivya2004-github/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Dhivya2004-github/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Dhivya2004-github/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Linked List
 |  |
