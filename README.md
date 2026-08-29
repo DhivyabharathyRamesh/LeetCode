@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Dhivya2004-github/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Dhivya2004-github/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Dhivya2004-github/LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Dhivya2004-github/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Dhivya2004-github/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Dhivya2004-github/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhivya2004-github/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
