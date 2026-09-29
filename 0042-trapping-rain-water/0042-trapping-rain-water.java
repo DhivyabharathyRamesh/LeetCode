@@ -11,11 +11,11 @@ class Solution {
         for(int j=height.length-2;j>=0;j--){
             rightMax[j]=Math.max(rightMax[j+1],height[j]);
         }
-        int[] water=new int[height.length];
+        
         int tot=0;
         for(int i=0;i<height.length;i++){
-            water[i]=Math.min(leftMax[i],rightMax[i])-height[i];
-            tot+=water[i];
+            int water=Math.min(leftMax[i],rightMax[i])-height[i];
+            tot+=water;
         }
 return tot;
           }
